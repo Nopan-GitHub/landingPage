@@ -26,7 +26,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 btnText = "Get Started"
 
 # counter
-disableCountdown = false
+disableCountdown = true
 countdownYear = "2022"
 countdownMonth = "12"
 countdownDay = "31"
